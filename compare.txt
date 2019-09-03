@@ -1,0 +1,8 @@
+Fortran:
+Compilation time: 0.065-0.073
+Execution time: 0.004-0.005
+CPP:
+Compilation time: 0.209-0.220
+Execution time: 0.007-0.009
+
+
